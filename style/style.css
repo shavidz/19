@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 20px 0;
+}
+
+.character-card {
+    border: 2px solid #333;
+    display: inline-block;
+    margin: 10px;
+    padding: 15px;
+    width: 200px;
+    text-align: center;
+}
+
+.character-card img {
+    width: 100%;
+    height: auto;
+}
+
+.btn-container {
+    margin-top: 10px;
+}
+
+.info {
+    display: none;
+    margin-top: 10px;
+    font-size: 14px;
+    color: gray;
+}
